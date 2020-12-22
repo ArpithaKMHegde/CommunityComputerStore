@@ -1,0 +1,35 @@
+﻿.container-div {
+    display: table;
+    width: 100%;
+    justify-content: center;
+    background-color: #F5F5F5;
+    color: darkblue;
+    vertical-align:middle;
+    align-content:center;
+    align-items:center;
+}
+
+.style-h2 {
+    align-content:center;
+    text-align:center;
+    color: navy;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+}
+
+.style-h3 {
+    align-content: center;
+    text-align: center;
+    color: navy;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.style-h4 {
+    align-content: center;
+    text-align: center;
+    color: coral;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
